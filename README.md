@@ -7,8 +7,8 @@
 - 🏫 \[2018 - 2019\] MS in Computer Vision at [CMU](https://www.cmu.edu/)
 - 🎓 \[2014 - 2018\] BEng in Computer Science at [HKU](https://hku.hk/)
 - 📝 Author of [LeetCode 101 - A Grinding Guide](https://github.com/changgyhub/leetcode_101), a non-profit ebook
-- 💻 Multimodal Machine Learning & LLM / Robotics / Applied ML / On-device ML / Computer vision
-- 🏀 Vertical Jump Training / Basketball / Dota2 / Steam
+- 💻 Multimodal Machine Learning & LLM / Robotics / Applied ML / On-device ML / Computer Vision
+- 🏀 Vertical Jump Training / Basketball / Dota2 / Steam Games
 - 🏡 [Homepage](https://www.changgy.com/)
 
 Disclaimer:
