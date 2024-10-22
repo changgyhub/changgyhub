@@ -10,3 +10,5 @@
 - 💻 Multimodal Machine Learning & LLM, Robotics, Applied ML, On-device ML and Computer Vision
 - 🏀 Vertical Jump Training / Basketball / Dota2 / Steam
 - 🏡 [Homepage](https://www.changgy.com/)
+
+Disclaimer: all repositories under this account are developed by myself and not associated with any other party unless explicitly mentioned.
