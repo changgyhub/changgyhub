@@ -11,4 +11,5 @@
 - 🏀 Vertical Jump Training / Basketball / Dota2 / Steam
 - 🏡 [Homepage](https://www.changgy.com/)
 
-Disclaimer: all repositories under this account are developed by myself and not associated with any other party unless explicitly mentioned.
+Disclaimer:
+- All repositories *under this account* are developed by myself and not associated with any other party unless explicitly mentioned.
