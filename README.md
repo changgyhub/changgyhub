@@ -10,7 +10,6 @@
 - 📝 Author of [LeetCode 101 - A Grinding Guide](https://github.com/changgyhub/leetcode_101), a non-profit ebook
 - 💻 Multimodal Machine Learning & LLM / Robotics / Applied ML / On-device ML / Computer Vision
 - 🏀 Vertical Jump Training / Basketball / Dota2 / Steam Games
-- 🏡 [Homepage](https://www.changgy.com/)
 
 Disclaimer:
 - All repositories *under this account* are developed by myself and not associated with any other party unless explicitly mentioned.
