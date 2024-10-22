@@ -12,4 +12,4 @@
 - 🏀 Vertical Jump Training / Basketball / Dota2 / Steam Games
 
 Disclaimer:
-- All repositories *under this account* are developed by myself and not associated with any other party unless explicitly mentioned.
+- All repositories *under this account* are developed by myself, not associated with any other party unless mentioned.
