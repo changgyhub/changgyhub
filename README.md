@@ -4,6 +4,7 @@
 ![GitHub User's followers](https://img.shields.io/github/followers/changgyhub?style=flat-square&logo=github)
 <a href="https://www.linkedin.com/in/changgy/" ><img src="https://img.shields.io/badge/LinkedIn-Follow_Chang_Gao-black?style=social&logo=linkedin" height="22"/> </a>
 
+- 🚖 \[2024-Now\] Foundation Models, [Apple Intelligence](https://www.apple.com/apple-intelligence/)
 - 🚖 \[2020-24\] Tech Lead and Senior Software Engineer, [Waymo](https://www.waymo.com) Percpetion
 - 🏫 \[2018-19\] MS in Computer Vision, [CMU](https://www.cmu.edu/)
 - 🎓 \[2014-18\] BEng in Computer Science, [HKU](https://hku.hk/)
