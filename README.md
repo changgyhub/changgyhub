@@ -6,7 +6,7 @@
 
 Check my tech blogs here: [CTB - changgy tech blog](https://www.changgy.com)
 
-- 🍎 \[2024-Now\] Foundation Models, [Apple Intelligence](https://www.apple.com/apple-intelligence/)
+- 🍎 \[2024-Now\] Senior Research Engineer, [Apple Foundation Models](https://www.apple.com/apple-intelligence/)
 - 🚖 \[2020-24\] Tech Lead and Senior Software Engineer, [Waymo](https://www.waymo.com) Percpetion
 - 🏫 \[2018-19\] MS in Computer Vision, [CMU](https://www.cmu.edu/)
 - 🎓 \[2014-18\] BEng in Computer Science, [HKU](https://hku.hk/)
