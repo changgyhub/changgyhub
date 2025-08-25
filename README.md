@@ -6,7 +6,7 @@
 
 Homepage: [Chang Gao](https://www.changgy.com)
 
-- 🍎 \[2024-Now\] Research Engineer, [Apple Foundation Models](https://www.apple.com/apple-intelligence/)
+- 🍎 \[2024-Now\] LLM Research Engineer, [Apple Foundation Models](https://www.apple.com/apple-intelligence/)
 - 🚖 \[2020-24\] Perception Engineer, [Waymo](https://www.waymo.com)
 - 🏫 \[2018-19\] MS in Computer Vision, [CMU](https://www.cmu.edu/)
 - 🎓 \[2014-18\] BEng in Computer Science, [HKU](https://hku.hk/)
