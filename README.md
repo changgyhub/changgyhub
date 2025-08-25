@@ -4,10 +4,10 @@
 ![GitHub User's followers](https://img.shields.io/github/followers/changgyhub?style=flat-square&logo=github)
 <a href="https://www.linkedin.com/in/changgy/" ><img src="https://img.shields.io/badge/LinkedIn-Follow_Chang_Gao-black?style=social&logo=linkedin" height="22"/> </a>
 
-Check my tech blogs here: [CTB - changgy tech blog](https://www.changgy.com)
+Homepage: [Chang Gao](https://www.changgy.com)
 
-- 🍎 \[2024-Now\] Senior Research Engineer, [Apple Foundation Models](https://www.apple.com/apple-intelligence/)
-- 🚖 \[2020-24\] Tech Lead and Senior Software Engineer, [Waymo](https://www.waymo.com) Percpetion
+- 🍎 \[2024-Now\] Research Engineer, [Apple Foundation Models](https://www.apple.com/apple-intelligence/)
+- 🚖 \[2020-24\] Tech Lead and Software Engineer, [Waymo](https://www.waymo.com) Percpetion
 - 🏫 \[2018-19\] MS in Computer Vision, [CMU](https://www.cmu.edu/)
 - 🎓 \[2014-18\] BEng in Computer Science, [HKU](https://hku.hk/)
 - 📝 Author of [LeetCode 101 - A Grinding Guide](https://github.com/changgyhub/leetcode_101), a non-profit ebook
