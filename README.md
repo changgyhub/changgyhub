@@ -7,7 +7,7 @@
 Homepage: [Chang Gao](https://www.changgy.com)
 
 - 🍎 \[2024-Now\] Research Engineer, [Apple Foundation Models](https://www.apple.com/apple-intelligence/)
-- 🚖 \[2020-24\] Tech Lead and Software Engineer, [Waymo](https://www.waymo.com) Percpetion
+- 🚖 \[2020-24\] Tech Lead and Perception Engineer, [Waymo](https://www.waymo.com)
 - 🏫 \[2018-19\] MS in Computer Vision, [CMU](https://www.cmu.edu/)
 - 🎓 \[2014-18\] BEng in Computer Science, [HKU](https://hku.hk/)
 - 📝 Author of [LeetCode 101 - A Grinding Guide](https://github.com/changgyhub/leetcode_101), a non-profit ebook
